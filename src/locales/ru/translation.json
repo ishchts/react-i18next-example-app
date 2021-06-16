@@ -1,0 +1,17 @@
+{
+  "translation": {
+    "description": {
+      "part1": "Edit <1>src/App.js</1> and save to reload.",
+      "part2": "Learn React1"
+    },
+    "counter_0": "Поменял язык {{count}} раз",
+    "counter_1": "Поменял язык {{count}} раза",
+    "counter_2": "Поменял язык {{count}} раз",
+    "footer": {
+      "date": "Сегодня {{date, DATE_HUGE}}",
+      "date_morning": "Доброе утро! Сегодня {{date, DATE_HUGE}} | Have a nice day!",
+      "date_afternoon": "Добрый день! Сегодня {{date, DATE_HUGE}}",
+      "date_evening": "Добрый вечер! Сейчас {{date, DATE_HUGE}}"
+    }
+  }
+}
